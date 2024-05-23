@@ -1,5 +1,8 @@
 _repo: 0x152uvres-completes-de-Guy-de-Maupassant-volume-25_73633
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73633-h/images/cover.jpg
 creator:
   author:
     agent_name: Maupassant, Guy de
@@ -12,6 +15,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Guy_de_Maupassant
     - https://en.wikipedia.org/wiki/Guy_de_Maupassant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73633#0x152uvres-completes-de-Guy-de-Maupassant-volume-25
 gutenberg_issued: '2024-05-15'
 gutenberg_type: Text
 identifiers:
